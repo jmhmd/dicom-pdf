@@ -1,0 +1,13 @@
+{
+  "name": "dicom-pdf",
+  "version": "0.1.0",
+  "description": "Display DICOM encapsulated PDF with native browser PDF viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Hostetter MD",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
